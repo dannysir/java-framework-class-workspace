@@ -6,6 +6,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import java.io.IOException;
 
+
 public class UserServlet extends GenericServlet {
     private UserDao userDao;
 
